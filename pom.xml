@@ -37,13 +37,13 @@
 	<repository>
 		<id>vodarelease</id>
 		<name>Internal Releases</name>
-		<url>http://13.126.213.31:8081/nexus/content/repositories/releases/</url>
+		<url>http://13.126.213.31:8081/repository/vodarelease/</url>
 	</repository>
  
 	<snapshotRepository>
 		<id>vodarelease</id>
 		<name>Internal Releases</name>
-		<url>http://13.126.213.31:8081nexus/content/repositories/snapshots/</url>
+		<url>http://13.126.213.31:8081/repository/vodasnapshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
